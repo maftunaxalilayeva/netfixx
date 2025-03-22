@@ -1,0 +1,319 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.container {
+    margin: 0 auto;
+    padding: 0 15px;
+    width: 375px;
+}
+
+
+.media {
+    width: 375px;
+    height: 44px;
+    background: rgb(0, 0, 0);
+    display: flex;
+    gap: 260px;
+    padding: 17px;
+
+    &__there {
+        display: flex;
+        gap: 5px;
+    }
+}
+
+// main--------->
+// section1
+.code {
+    width: 375px;
+    height: 52px;
+    background: rgb(66, 66, 66);
+    display: flex;
+
+    &__imeges {
+        margin: 16px 7px 18px 21px;
+        width: 20px;
+        height: 20px;
+
+        &__input {
+            width: 244.56px;
+            height: 31px;
+            color: rgb(196, 196, 196);
+            font-family: SF Pro Display;
+            font-size: 15.21px;
+            font-weight: 400;
+            line-height: 31px;
+            letter-spacing: 0.21px;
+            text-align: left;
+            background: rgb(66, 66, 66);
+            border: none;
+            margin-top: 13px;
+        }
+    }
+
+    &__imeges1 {
+        width: 14px;
+        height: 19px;
+        margin: 16px 28px 17px 39px;
+
+    }
+}
+
+.bacround {
+    height: 610px;
+    width: 375px;
+    background: rgb(0, 0, 0);
+    padding-top: 11px;
+
+    &__txt {
+        color: rgb(255, 255, 255);
+        font-family: SF Pro Display;
+        font-size: 26.75px;
+        font-weight: 700;
+        line-height: 20px;
+        letter-spacing: -0.07px;
+        text-align: center;
+        width: 164px;
+        height: 20px;
+        margin: 10px 201px 21px 10px;
+    }
+
+    &__catation {
+        width: 375px;
+        height: 76px;
+        background: rgb(66, 66, 66);
+        display: flex;
+        gap: 7px;
+        margin-bottom: 3px;
+
+        &__txt-img {}
+
+        &__setup {
+            display: flex;
+            gap: 73px;
+            align-items: center;
+
+            .setup:hover {
+                border: azure;
+                border-style: dotted;
+            }
+
+            &__bad {
+                color: rgb(255, 255, 255);
+                font-family: SF Pro Display;
+                font-size: 14.72px;
+                font-weight: 400;
+                line-height: 30px;
+                letter-spacing: 0.75px;
+                text-align: center;
+                width: 73.33px;
+                height: 30px;
+                width: 108px;
+
+            }
+
+            &__imeges2 {
+                width: 23.33px;
+                height: 23.33px;
+            }
+        }
+
+    }
+}
+
+// footer---------->
+.bacround1 {
+
+    width: 375px;
+    height: 100px;
+    background: rgb(0, 0, 0);
+    padding-top: 23px;
+
+    &__coder {
+        display: flex;
+        justify-content: space-between;
+        padding: 10px 29px 0px 29px;
+        width: 375px;
+        height: 48px;
+        background: rgb(18, 18, 18);
+
+        &__coder:hover {
+            width: 385px;
+            height: 51px;
+        }
+    }
+
+
+
+    .hr {
+        width: 121.38px;
+        height: 4.53px;
+        border-radius: 90.58px;
+
+        background: rgb(255, 255, 255);
+        margin: 14px auto;
+    }
+}
+    // soon.html---------->
+    .edit {
+        width: 375px;
+        height: 1397px;
+        background: rgb(0, 0, 0);
+
+        &__count {
+            display: flex;
+            width: 124.6px;
+            height: 19px;
+            gap: 9px;
+            margin: 0px 135px 18px 15px;
+            align-items: center;
+
+            &__h2text {
+                color: rgb(255, 255, 255);
+                font-family: SF Pro Display;
+                font-size: 16.91px;
+                font-weight: 700;
+                line-height: 12.64px;
+                letter-spacing: -0.05px;
+                text-align: center;
+                width: 98.6px;
+                height: 12.64px;
+
+            }
+        }
+
+        &__d-f {
+            display: flex;
+            width: 375px;
+            height: 65px;
+            background: rgb(66, 66, 66);
+            padding: 5px 152px 9px 12px;
+            gap: 30px;
+
+            &__left {
+                &__left-img {
+                    width: 113px;
+                    height: 55px;
+                    border-radius: 2px;
+                }
+            }
+
+            &__right {
+                width: 67.36px;
+                height: 46.4px;
+
+                &__right-h2 {
+                    color: rgb(255, 255, 255);
+                    font-family: SF Pro Display;
+                    font-size: 13.72px;
+                    font-weight: 500;
+                    line-height: 10.26px;
+                    letter-spacing: -0.04px;
+                    text-align: left;
+                    width: 167.36px;
+                    height: 10.69px;
+                }
+
+                &__right-h3 {
+                    color: rgba(255, 255, 255, 0.83);
+                    font-family: SF Pro Display;
+                    font-size: 13.72px;
+                    font-weight: 500;
+                    line-height: 10.26px;
+                    letter-spacing: -0.04px;
+                    text-align: left;
+                    width: 87px;
+                    height: 11px;
+                    margin-top: 7px;
+                    margin-bottom: 7px;
+                }
+
+                &__right-p {
+                    color: rgba(255, 255, 255, 0.48);
+                    font-family: SF Pro Display;
+                    font-size: 10.51px;
+                    font-weight: 500;
+                    line-height: 10.26px;
+                    letter-spacing: -0.04px;
+                    text-align: left;
+                    width: 26.73px;
+                    height: 10.69px;
+                }
+            }
+
+
+        }
+
+        &__castle {
+            margin: 20px 0px 0px 0px;
+        }
+
+        &__share {
+            display: flex;
+            gap: 45px;
+            margin-left: 226px;
+            margin-bottom: 13px;
+            margin-top: 20px;
+        }
+
+        &__p-text {
+            color: rgba(255, 255, 255, 0.83);
+            font-family: SF Pro Display;
+            font-size: 11.4px;
+            font-weight: 400;
+            line-height: 8.52px;
+            letter-spacing: -0.03px;
+            text-align: left;
+            width: 149px;
+            margin-left: 12px;
+            height: 9px;
+        }
+
+        &__h2-text {
+            color: rgb(255, 255, 255);
+            font-family: SF Pro Display;
+            font-size: 18.66px;
+            font-weight: 700;
+            line-height: 13.95px;
+            letter-spacing: -0.05px;
+            text-align: left;
+            width: 130px;
+            height: 14px;
+            margin: 13px 233px 12px 12px;
+        }
+
+        &__lorem {
+            width: 354.75px;
+            height: 43px;
+            color: rgba(255, 255, 255, 0.83);
+            font-family: SF Pro Display;
+            font-size: 11.14px;
+            font-weight: 400;
+            line-height: 14.17px;
+            letter-spacing: -0.03px;
+            text-align: left;
+            margin-left: 12px;
+        }
+
+        &__item {
+
+            color: rgb(255, 255, 255);
+            font-family: SF Pro Display;
+            font-size: 11.4px;
+            font-weight: 600;
+            line-height: 8.52px;
+            letter-spacing: -0.03px;
+            text-align: left;
+            width: 334px;
+            height: 18px;
+            margin: 7px 12px;
+        }
+    }

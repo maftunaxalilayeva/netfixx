@@ -1,0 +1,19 @@
+<svg width="24.000000" height="45.000000" viewBox="0 0 24 45" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip6_274">
+			<rect id="line-md:home-simple" rx="0.000000" width="23.000000" height="23.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<path id="Home" d="M5.7 26.33L5.7 32.11L4.8 32.11L4.8 29.55L1.84 29.55L1.84 32.11L0.94 32.11L0.94 26.33L1.84 26.33L1.84 28.77L4.8 28.77L4.8 26.33L5.7 26.33ZM10.72 30C10.72 31.36 9.93 32.19 8.73 32.19C7.52 32.19 6.73 31.36 6.73 30C6.73 28.65 7.53 27.82 8.73 27.82C9.93 27.82 10.72 28.65 10.72 30ZM20.5 31.49C20.99 31.49 21.35 31.24 21.47 30.87L22.29 30.87C22.17 31.64 21.44 32.19 20.48 32.19C19.24 32.19 18.49 31.35 18.49 30.02C18.49 28.7 19.25 27.82 20.44 27.82C21.61 27.82 22.34 28.65 22.34 29.92L22.34 30.22L19.36 30.22L19.36 30.27C19.36 31 19.8 31.49 20.5 31.49ZM12.52 32.11L11.65 32.11L11.65 27.9L12.48 27.9L12.48 28.61L12.5 28.61C12.69 28.14 13.13 27.83 13.7 27.83C14.28 27.83 14.7 28.13 14.87 28.65L14.89 28.65C15.11 28.14 15.6 27.83 16.21 27.83C17.04 27.83 17.58 28.38 17.58 29.22L17.58 32.11L16.71 32.11L16.71 29.42C16.71 28.88 16.42 28.57 15.91 28.57C15.4 28.57 15.04 28.95 15.04 29.48L15.04 32.11L14.19 32.11L14.19 29.36C14.19 28.87 13.88 28.57 13.39 28.57C12.88 28.57 12.52 28.97 12.52 29.51L12.52 32.11ZM21.47 29.62C21.45 28.97 21.05 28.52 20.44 28.52C19.84 28.52 19.41 28.98 19.37 29.62L21.47 29.62ZM7.61 30C7.61 30.94 8.05 31.48 8.73 31.48C9.41 31.48 9.84 30.94 9.84 30C9.84 29.07 9.4 28.53 8.73 28.53C8.05 28.53 7.61 29.07 7.61 30Z" fill="#8C8787" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<rect id="line-md:home-simple" rx="0.000000" width="23.000000" height="23.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip6_274)">
+		<path id="Vector" d="M22 9.15L12 2" stroke="#8C8787" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M2 9.15L12 2" stroke="#8C8787" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M5 19L5 7.36" stroke="#8C8787" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linecap="round"/>
+		<path id="Vector" d="M19 19L19 7.36" stroke="#8C8787" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linecap="round"/>
+		<path id="Vector" d="M5 19L19 19" stroke="#8C8787" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linecap="round"/>
+	</g>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="24.328003" height="11.333344" viewBox="0 0 24.328 11.3333" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<g opacity="0.350000" style="mix-blend-mode:normal">
+		<rect id="Border" x="0.500000" y="0.500000" rx="2.666667" width="21.000000" height="10.333333" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	</g>
+	<g opacity="0.400000" style="mix-blend-mode:normal">
+		<path id="Cap" d="M23 3.66L23 7.66C23.8 7.32 24.32 6.53 24.32 5.66C24.32 4.79 23.8 4 23 3.66Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<rect id="Capacity" x="2.000000" y="2.000000" rx="1.333333" width="18.000000" height="7.333333" fill="#FFFFFF" fill-opacity="1.000000"/>
+</svg>
